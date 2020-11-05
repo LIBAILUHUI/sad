@@ -11,6 +11,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class DemoApplication {
 
+    
+    /**
+ * @author Administrator
+ * @description TODO
+ * @date 2020/11/2
+ */
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class,args);
     }
